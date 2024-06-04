@@ -1,0 +1,322 @@
+[
+  {
+      "id": 1,
+      "name": "Tacos al pastor",
+      "ingredients": ["carne de cerdo", "achiote", "piña", "cebolla", "cilantro", "tortillas de maíz"],
+      "instructions": ["Marinar la carne con achiote y piña.","Asar la carne en un trompo.", "Servir en tortillas con cebolla, cilantro y piña."],
+      "author": "Sam",
+      "image": "./recetImg/1.jpg"
+  },
+  {
+      "id": 2,
+      "name": "Mole poblano",
+      "ingredients": ["chiles secos", "chocolate", "pollo", "almendras", "plátano macho"],
+      "instructions": ["Tostar los chiles y moler con chocolate.", "Cocinar con pollo y agregar almendras y plátano macho."],
+      "author": "Andrei",
+      "image": "./recetImg/2.jpg"
+  },
+  {
+      "id": 3,
+      "name": "Chiles en nogada",
+      "ingredients": ["chiles poblanos", "carne molida", "frutas", "nuez", "crema"],
+      "instructions": ["Rellenar los chiles con carne molida y frutas.", "Cubrir con salsa de nuez y decorar con granada y perejil."],
+      "author": "Chris",
+      "image": "./recetImg/3.jpg"
+  },
+  {
+      "id": 4,
+      "name": "Enchiladas verdes",
+      "ingredients": ["tortillas de maíz", "pollo deshebrado", "salsa verde", "crema", "queso fresco"],
+      "instructions": ["Calentar las tortillas y rellenar con pollo.","Bañar con salsa verde y decorar con crema y queso fresco."],
+      "author": "Luna",
+      "image": "./recetImg/4.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Pozole",
+      "ingredients": ["maíz", "carne de cerdo", "lechuga", "rábanos", "cebolla", "limón"],
+      "instructions": ["Cocinar el maíz y la carne en caldo.", "Servir caliente con lechuga, rábanos, cebolla y limón."],
+      "author": "Einar",
+      "image": "./recetImg/5.jpg"
+  },
+  {
+      "id": 6,
+      "name": "Tamales de elote",
+      "ingredients": ["elote", "harina de maíz", "manteca", "hojas de maíz"],
+      "instructions": ["Mezclar el elote con harina y manteca.", "Envolver en hojas de maíz y cocinar al vapor."],
+      "author": "Lud",
+      "image": "./recetImg/6.jpg"
+  },
+  {
+      "id": 7,
+      "name": "Chiles rellenos",
+      "ingredients": ["chiles poblanos", "queso", "carne molida", "tomate", "cebolla"],
+      "instructions": ["Rellenar los chiles con queso y carne molida.", "Capear y freír.", "Servir con salsa de tomate y cebolla."],
+      "author": "Sam",
+      "image": "./recetImg/7.jpg"
+  },
+  {
+      "id": 8,
+      "name": "Pescado a la veracruzana",
+      "ingredients": ["filete de pescado", "tomate", "aceitunas", "alcaparras", "chiles"],
+      "instructions": ["Cocinar el pescado con salsa de tomate, aceitunas, alcaparras y chiles.", "Servir caliente."],
+      "author": "Andrei",
+      "image": "./recetImg/8.jpg"
+  },
+  {
+      "id": 9,
+      "name": "Cochinita pibil",
+      "ingredients": ["carne de cerdo", "achiote", "naranja agria", "hojas de plátano"],
+      "instructions": ["Marinar la carne con achiote y naranja agria.", "Envolver en hojas de plátano y cocinar al horno."],
+      "author": "Chris",
+      "image": "./recetImg/9.jpg"
+  },
+  {
+      "id": 10,
+      "name": "Sopes",
+      "ingredients": ["masa de maíz", "frijoles", "crema", "salsa", "lechuga", "queso fresco"],
+      "instructions": ["Formar discos de masa y cocinar en comal.", "Rellenar con frijoles, crema, salsa, lechuga y queso fresco."],
+      "author": "Luna",
+      "image": "./recetImg/10.jpg"
+  },
+  {
+      "id": 11,
+      "name": "Ceviche de camarón",
+      "ingredients": ["camarón", "limón", "jitomate", "cebolla", "cilantro", "aguacate"],
+      "instructions": ["Cocinar el camarón en limón.", "Mezclar con jitomate, cebolla, cilantro y aguacate."],
+      "author": "Einar",
+      "image": "./recetImg/11.jpg"
+  },
+  {
+      "id": 12,
+      "name": "Tacos de barbacoa",
+      "ingredients": ["carne de res", "consomé", "cebolla", "cilantro", "limón", "tortillas de maíz"],
+      "instructions": ["Cocinar la carne de res en consomé.", "Servir en tortillas con cebolla, cilantro y limón."],
+      "author": "Lud",
+      "image": "./recetImg/12.jpg"
+  },
+  {
+      "id": 13,
+      "name": "Tortilla española",
+      "ingredients": ["papa", "huevo", "cebolla", "aceite", "sal", "pimiento"],
+      "instructions": ["Freír la papa y la cebolla.", "Mezclar con huevo batido y pimiento.", "Cocinar en sartén."],
+      "author": "Sam",
+      "image": "./recetImg/13.jpg"
+  },
+  {
+      "id": 14,
+      "name": "Paella",
+      "ingredients": ["arroz", "pollo", "langostinos", "chorizo", "pimiento", "azafrán"],
+      "instructions": ["Sofreír el pollo, langostinos y chorizo.", "Agregar arroz, pimiento y azafrán.", "Cocinar hasta que el arroz esté listo."],
+      "author": "Andrei",
+      "image": "./recetImg/14.jpg"
+  },
+  {
+      "id": 15,
+      "name": "Sushi",
+      "ingredients": ["arroz para sushi", "alga nori", "pescado crudo", "aguacate", "sésamo", "vinagre de arroz"],
+      "instructions": ["Cocinar el arroz y mezclar con vinagre de arroz.", "Armar el sushi con el arroz, alga nori y los ingredientes deseados."],
+      "author": "Chris",
+      "image": "./recetImg/15.jpg"
+  },
+  {
+      "id": 16,
+      "name": "Empanadas argentinas",
+      "ingredients": ["carne molida", "cebolla", "pimiento", "huevo duro", "aceitunas", "masa para empanadas"],
+      "instructions": ["Sofreír la carne, cebolla y pimiento.", "Rellenar las empanadas con la mezcla, huevo duro y aceitunas.", "Hornear hasta que estén doradas."],
+      "author": "Luna",
+      "image": "./recetImg/16.jpg"
+  },
+  {
+      "id": 17,
+      "name": "Lomo saltado",
+      "ingredients": ["lomo de res", "cebolla", "tomate", "pimiento", "ajo", "salsa de soya"],
+      "instructions": ["Saltear el lomo con cebolla, tomate, pimiento y ajo.", "Agregar salsa de soya y cocinar."],
+      "author": "Einar",
+      "image": "./recetImg/17.jpg"
+  },
+  {
+      "id": 18,
+      "name": "Milanesa de pollo",
+      "ingredients": ["pechuga de pollo", "huevo", "pan rallado", "harina", "limón", "perejil"],
+      "instructions": ["Empanizar la pechuga con huevo, pan rallado y harina.", "Freír hasta que esté dorada.", "Servir con limón y perejil."],
+      "author": "Lud",
+      "image": "./recetImg/18.jpg"
+  },
+  {
+      "id": 19,
+      "name": "Parrillada argentina",
+      "ingredients": ["asado de tira", "chorizo", "morcilla", "achuras", "ensalada", "vino tinto"],
+      "instructions": ["Asar la carne a la parrilla junto con chorizo y morcilla.", "Servir con ensalada y vino tinto."],
+      "author": "Sam",
+      "image": "./recetImg/19.jpg"
+  },
+  {
+      "id": 20,
+      "name": "Arroz con leche",
+      "ingredients": ["arroz", "leche", "azúcar", "canela", "vainilla", "cáscara de limón"],
+      "instructions": ["Cocinar el arroz en leche con azúcar, canela, vainilla y cáscara de limón.", "Dejar enfriar y servir."],
+      "author": "Andrei",
+      "image": "./recetImg/20.jpg"
+  },
+  {
+      "id": 21,
+      "name": "Asado de tira",
+      "ingredients": ["asado de tira", "sal gruesa", "parrilla", "carbón", "ensalada mixta", "vino tinto"],
+      "instructions": ["Salar la carne de asado generosamente con sal gruesa.", "Preparar la parrilla con carbón y esperar a que esté bien caliente.", "Asar la carne a fuego lento, dando vuelta ocasionalmente, hasta que esté bien cocida por fuera y jugosa por dentro.", "Servir con ensalada mixta y vino tinto."],
+      "author": "Chris",
+      "image": "./recetImg/21.jpg"
+  },
+  {
+      "id": 22,
+      "name": "Tiramisú",
+      "ingredients": ["bizcochos de soletilla", "café", "queso mascarpone", "huevos", "azúcar", "cacao en polvo"],
+      "instructions": ["Remojar los bizcochos en café.", "Mezclar el queso mascarpone con yemas de huevo y azúcar.", "Montar las claras a punto de nieve e incorporarlas a la mezcla de queso.", "Montar capas de bizcochos y mezcla de queso en un molde.", "Espolvorear con cacao en polvo y refrigerar."],
+      "author": "Luna",
+      "image": "./recetImg/22.jpg"
+  },
+  {
+      "id": 23,
+      "name": "Ratatouille",
+      "ingredients": ["berenjena", "calabacín", "pimiento", "cebolla", "tomate", "ajo", "aceite de oliva"],
+      "instructions": ["Cortar las verduras en rodajas.", "Saltear el ajo y la cebolla en aceite de oliva.", "Agregar las verduras y cocinar a fuego lento hasta que estén tiernas."],
+      "author": "Einar",
+      "image": "./recetImg/23.jpg"
+  },
+  {
+      "id": 24,
+      "name": "Falafel",
+      "ingredients": ["garbanzos", "ajo", "cebolla", "perejil", "cilantro", "comino", "cilantro en polvo", "sal", "harina"],
+      "instructions": ["Remojar los garbanzos y triturarlos junto con ajo, cebolla, perejil y cilantro.", "Agregar comino, cilantro en polvo y sal.", "Formar bolitas y freírlas hasta que estén doradas."],
+      "author": "Lud",
+      "image": "./recetImg/24.jpg"
+  },
+  {
+      "id": 25,
+      "name": "Gazpacho",
+      "ingredients": ["tomates", "pepino", "pimiento", "cebolla", "ajo", "pan"],
+      "instructions": ["Licuar tomates, pepino, pimiento, cebolla, ajo y pan.", "Refrigerar y servir frío."],
+      "author": "Sam",
+      "image": "./recetImg/25.jpg"
+  },
+  {
+      "id": 26,
+      "name": "Pasta Primavera",
+      "ingredients": ["pasta", "brócoli", "zanahoria", "calabacín", "champiñones", "tomate cherry", "ajo", "aceite de oliva", "sal", "pimienta", "queso parmesano"],
+      "instructions": ["Cocinar la pasta según las instrucciones del paquete.", "En una sartén grande, calentar aceite de oliva a fuego medio.", "Agregar el ajo picado y cocinar hasta que esté fragante.", "Agregar las verduras picadas (brócoli, zanahoria, calabacín, champiñones) y saltear hasta que estén tiernas pero aún crujientes.", "Agregar los tomates cherry cortados por la mitad y cocinar por unos minutos más.", "Incorporar la pasta cocida y mezclar bien.", "Condimentar con sal y pimienta al gusto.", "Servir caliente con queso parmesano rallado por encima."],
+      "author": "Andrei",
+      "image": "./recetImg/26.jpg"
+  },
+  {
+      "id": 27,
+      "name": "Ramen",
+      "ingredients": ["fideos de ramen", "caldo de pollo", "pollo", "huevo", "cebolla verde", "jengibre"],
+      "instructions": ["Cocinar el pollo y el huevo.", "Hervir el caldo de pollo con cebolla verde y jengibre.", "Cocinar los fideos y servir con el caldo, el pollo y el huevo."],
+      "author": "Chris",
+      "image": "./recetImg/27.jpg"
+  },
+  {
+      "id": 28,
+      "name": "Ensalada César",
+      "ingredients": ["lechuga romana", "pollo", "pan", "queso parmesano", "salsa César", "limón"],
+      "instructions": ["Cortar la lechuga, el pollo y el pan en trozos pequeños.", "Mezclar con salsa César, queso parmesano rallado y jugo de limón."],
+      "author": "Luna",
+      "image": "./recetImg/28.jpg"
+  },
+  {
+      "id": 29,
+      "name": "Pollo al horno con hierbas",
+      "ingredients": ["pollo entero", "ajo", "cebolla", "limón", "tomillo", "romero"],
+      "instructions": ["Frotar el pollo con ajo, cebolla, limón y hierbas.", "Hornear hasta que esté dorado y cocido."],
+      "author": "Einar",
+      "image": "./recetImg/29.jpg"
+  },
+  {
+      "id": 30,
+      "name": "Ñoquis de papa",
+      "ingredients": ["papas", "harina", "huevo", "sal", "salsa", "queso parmesano"],
+      "instructions": ["Cocinar las papas en agua hirviendo hasta que estén tiernas.", "Hacer un puré con las papas cocidas.", "Mezclar el puré de papas con harina, huevo y sal hasta obtener una masa homogénea.", "Formar ñoquis con la masa y marcarlos con un tenedor.", "Cocinar en agua hirviendo hasta que suban a la superficie.", "Servir con salsa de tu elección y queso parmesano rallado."],
+      "author": "Lud",
+      "image": "./recetImg/30.jpg"
+  },
+  {
+      "id": 31,
+      "name": "Milanesa a la napolitana",
+      "ingredients": ["filete de carne", "pan rallado", "huevo", "jamón", "queso mozzarella", "salsa de tomate", "aceite de oliva", "sal", "pimienta"],
+  "instructions": ["Preparar los filetes de carne, salpimentándolos al gusto.", "Pasar cada filete por huevo batido y luego por pan rallado, asegurándose de que estén bien cubiertos.", "Freír las milanesas en aceite caliente hasta que estén doradas por ambos lados.", "Colocar una capa de salsa de tomate sobre cada milanesa.", "Cubrir con una loncha de jamón y una generosa porción de queso mozzarella rallado.", "Hornear a temperatura media hasta que el queso esté derretido y burbujeante.", "Servir caliente, acompañado de ensalada fresca y una copa de vino tinto."],
+      "author": "Sam",
+      "image": "./recetImg/31.jpg"
+  },
+  {
+      "id": 32,
+      "name": "Empanadas argentinas",
+      "ingredients": ["carne molida", "cebolla", "pimiento", "huevo duro", "aceitunas", "masa para empanadas"],
+      "instructions": ["Sofreír la carne, cebolla y pimiento.", "Rellenar las empanadas con la mezcla, huevo duro y aceitunas.", "Hornear hasta que estén doradas."],
+      "author": "Andrei",
+      "image": "./recetImg/32.jpg"
+  },
+  {
+      "id": 33,
+      "name": "Milanesa de ternera",
+      "ingredients": ["filete de ternera", "pan rallado", "huevo", "harina", "limón", "perejil"],
+      "instructions": ["Empanizar el filete con huevo, pan rallado y harina.", "Freír hasta que esté dorada.", "Servir con limón y perejil."],
+      "author": "Chris",
+      "image": "./recetImg/33.jpg"
+  },
+  {
+      "id": 34,
+      "name": "Locro",
+      "ingredients": ["maíz", "porotos", "carne de cerdo", "chorizo colorado", "calabaza", "cebolla"],
+      "instructions": ["Cocinar el maíz y los porotos en agua.", "Agregar la carne de cerdo y el chorizo colorado.", "Incorporar la calabaza y la cebolla.", "Cocinar hasta que los ingredientes estén tiernos."],
+      "author": "Luna",
+      "image": "./recetImg/34.jpg"
+  },
+  {
+      "id": 35,
+      "name": "Choripán",
+      "ingredients": ["chorizo", "pan francés", "chimichurri", "salsa criolla", "lechuga", "tomate"],
+      "instructions": ["Asar el chorizo a la parrilla.", "Colocar en un pan francés.", "Agregar chimichurri, salsa criolla, lechuga y tomate."],
+      "author": "Einar",
+      "image": "./recetImg/35.jpg"
+  },
+  {
+      "id": 36,
+      "name": "Matambre a la pizza",
+      "ingredients": ["matambre", "tomate", "queso mozzarella", "orégano", "aceitunas", "morrones"],
+      "instructions": ["Estirar el matambre y cubrir con rodajas de tomate, queso mozzarella, orégano, aceitunas y morrones.", "Hornear hasta que el queso se derrita."],
+      "author": "Lud",
+      "image": "./recetImg/36.jpg"
+  },
+  {
+      "id": 37,
+      "name": "Tarta de jamón y queso",
+      "ingredients": ["masa para tarta", "jamón", "queso", "huevos", "crema", "nuez moscada"],
+      "instructions": ["Forrar un molde con la masa.", "Colocar capas de jamón y queso.", "Mezclar huevos batidos con crema y nuez moscada.", "Verter sobre la tarta y hornear hasta que esté dorada."],
+      "author": "Sam",
+      "image": "./recetImg/37.jpg"
+  },
+  {
+      "id": 38,
+      "name": "Bife de chorizo",
+      "ingredients": ["bife de chorizo", "sal gruesa", "pimienta", "limón", "aceite de oliva", "papas fritas"],
+      "instructions": ["Condimentar el bife con sal gruesa y pimienta.", "Asar a la parrilla hasta el punto deseado.", "Servir con limón, aceite de oliva y papas fritas."],
+      "author": "Andrei",
+      "image": "./recetImg/38.jpg"
+  },
+  {
+      "id": 39,
+      "name": "Pastel de papas",
+      "ingredients": ["carne molida", "papas", "cebolla", "aceitunas", "huevo", "leche"],
+      "instructions": ["Cocinar la carne molida con cebolla y aceitunas.", "Hervir y hacer puré de papas.", "Armar capas alternadas de puré de papas y carne en un molde.", "Hornear hasta que esté dorado."],
+      "author": "Chris",
+      "image": "./recetImg/39.jpg"
+  },
+  {
+      "id": 40,
+      "name": "Dulce de leche",
+      "ingredients": ["leche", "azúcar", "vainilla", "bicarbonato de sodio"],
+      "instructions": ["Cocinar la leche con azúcar y vainilla a fuego lento hasta que espese.", "Agregar bicarbonato de sodio y cocinar hasta que tenga un color dorado."],
+      "author": "Luna",
+      "image": "./recetImg/40.jpg"
+  }
+]
